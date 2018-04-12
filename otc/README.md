@@ -22,11 +22,11 @@ If you don't have BTC wallet you should create a new one using following command
 $ ./btcwallet -u username -P passphrase --create
 ```
 
-3. start otc
+3. start [otc-watcher](https://github.com/skycoin/services/tree/master/otc-watcher)
 
-**NOTES:**
-1. seed - seed of the new SkyCoin wallet
-2. account - passphrase of BTC wallet certificate
+see [running](https://github.com/skycoin/services/tree/master/otc-watcher#running)
+
+4. start otc
 
 ```
 $ cd github.com/skycoin-karl/services/otc
